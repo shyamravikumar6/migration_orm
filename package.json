@@ -1,0 +1,17 @@
+{
+  "name": "postgres_sql",
+  "version": "1.0.0",
+  "description": "postgress_sql projects",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Ravi kumar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4",
+    "pg": "^8.3.0",
+    "sequelize": "^6.3.4"
+  }
+}
